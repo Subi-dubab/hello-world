@@ -1,3 +1,3 @@
 # hello-world
-first repository to catch up tutorial
+first repository to catch up tutorial,
 some commits made
